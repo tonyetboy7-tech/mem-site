@@ -1,7 +1,7 @@
 {
   "cleanUrls": true,
   "rewrites": [
-    { "source": "/feed.json", "destination": "https://raw.githubusercontent.com/YOUR-GITHUB-NAME/mem-bot/data/public/feed.json" }
+    { "source": "/feed.json", "destination": "https://raw.githubusercontent.com/tonyetboy7-tech/mem-bot/data/public/feed.json" }
   ],
   "headers": [
     { "source": "/feed.json", "headers": [{ "key": "Cache-Control", "value": "no-store" }] }
